@@ -1,0 +1,8 @@
+movie_catalog.domain
+movie_catalog.repository
+ro.ubb.movie_catalog
+ro.ubb.movie_catalog.domain.entities
+ro.ubb.movie_catalog.domain.validators
+ro.ubb.movie_catalog.repository
+ro.ubb.movie_catalog.service
+ro.ubb.movie_catalog.ui
